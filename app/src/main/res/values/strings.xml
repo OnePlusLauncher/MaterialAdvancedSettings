@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">一加设置</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">高级设置</string>
+
+    <string name="hello_first_fragment">测试</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="item_switch_main_title">启用一加设置</string>
+    <string name="item_header_options">Option</string>
+    <string name="test">Introduce OPAdvanceSetting to 12</string>
+    <string name="item_test_content">GoGoGo!</string>
+    <string name="item_header_about">About</string>
+    <string name="item_about_title">OP AdvancedSettings Alpha</string>
+    <string name="item_about_content">Created by GodLeaveMe / lly / Kieron Quinn@ XDA</string>
+    <string name="chip_donate">Donate</string>
+    <string name="chip_twitter">Follow me on Twitter</string>
+    <string name="chip_github">GitHub</string>
+    <string name="chip_xda">XDA Thread</string>
+</resources>
