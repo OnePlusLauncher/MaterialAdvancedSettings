@@ -18,6 +18,7 @@ import com.oneplus.advancedsettings.utils.extensions.isDarkTheme
 import com.oneplus.advancedsettings.R
 
 class MainActivity : MonetCompatActivity() {
+    
 
     private lateinit var appBarConfiguration: AppBarConfiguration
     private lateinit var binding: ActivityMainBinding
