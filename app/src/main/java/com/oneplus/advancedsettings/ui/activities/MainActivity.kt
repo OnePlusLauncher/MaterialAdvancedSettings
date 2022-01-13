@@ -30,7 +30,7 @@ class MainActivity : MonetCompatActivity() {
 //        setUseLightStatusNav(false)
         lifecycleScope.launchWhenResumed {
             monet.awaitMonetReady()
-            setContentView(R.layout.activity_main)
+            setContentView(binding.root)
             window.setBackgroundDrawable(ColorDrawable(monet.getBackgroundColor(this@MainActivity)))
 //            val lightStatusNav = resources.getBoolean(R.bool.lightStatusNav)
 //            setUseLightStatusNav(lightStatusNav)
